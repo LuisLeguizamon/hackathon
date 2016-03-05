@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Usuario"
-        android:textSize="20sp"/>
+        android:textSize="16sp"/>
 
     <EditText android:id="@+id/etUser"
         android:layout_width="match_parent"
@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Contraseña"
-        android:textSize="20sp"/>
+        android:textSize="16sp"/>
 
     <EditText android:id="@+id/etPassword"
         android:layout_width="match_parent"
@@ -36,7 +36,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Entrar"
-        android:textSize="18sp"/>
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"/>
 
 
 </LinearLayout>
